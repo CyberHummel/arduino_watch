@@ -11,3 +11,7 @@ For my Computer Science Class
 
 ## Known Problems:
 - Currently Reliant on a PC to send time updates (update with Time Module Soon)
+
+
+
+![No Image](https://github.com/CyberHummel/arduino_watch/blob/main/circucit.png)
